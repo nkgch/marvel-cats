@@ -125,3 +125,8 @@ h1{
 	bottom:10px;
 	z-index:1;
 }
+
+a{
+	color:white;
+	text-decoration:none;
+}
